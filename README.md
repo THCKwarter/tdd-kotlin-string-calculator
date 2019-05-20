@@ -1,7 +1,7 @@
-#StringCalculator
+# StringCalculator
 For use with [this TDD Kata.](https://osherove.com/tdd-kata-1)
 
-##Rules
+## Rules
 - Try not to read ahead.
 - Do only one task at a time.
 - Make sure you only test for correct inputs.
