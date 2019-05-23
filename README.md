@@ -1,6 +1,10 @@
 # StringCalculator
 For use with [this TDD Kata.](https://osherove.com/tdd-kata-1)
 
+## Template Modules Included
+* Java
+* Kotlin
+
 ## Rules
 - Try not to read ahead.
 - Do only one task at a time.
